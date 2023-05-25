@@ -1,0 +1,1 @@
+export type ViewTypeLayout = 'vertical' | 'horizontal';
